@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import {Text, View, Image, TextInput, Touchable, TouchableOpacity, Alert, ActivityIndicatorBase, ActivityIndicator} from "react-native";
+import {Text, View, Image, TextInput, TouchableOpacity, Alert, ActivityIndicator} from "react-native";
 import {style} from "./styles";
 import logo from "../../assets/logo.png";
 import {MaterialIcons} from "@expo/vector-icons";
