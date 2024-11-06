@@ -23,9 +23,12 @@ Inciar
 ```bash
 npx expo start
 ```
--Baixe o APP EXPO GO (IOS/ANDROID)
+-Baixe o APP EXPO GO (IOS/ANDROID).
+
 -Ao iniciar o projeto no seu terminal, leia o QR CODE com seu celular.
+
 -Seu computador e celular devem estar na mesma REDE.
+
 ![QRCODE TERMINAL](QRCODE.png)
 
 
